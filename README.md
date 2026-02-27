@@ -1,4 +1,3 @@
-# fifthel-test-repo
 
 # Code review demo – attendee instructions
 
