@@ -1,0 +1,2 @@
+# Greeter CLI - no external dependencies for the demo.
+# Python 3.10+ recommended (for type hints and dict[str, str]).
